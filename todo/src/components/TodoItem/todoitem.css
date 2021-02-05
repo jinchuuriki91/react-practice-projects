@@ -1,0 +1,8 @@
+.todoItem {
+    display: flex;
+    align-items: center;
+}
+
+.todoItem--done {
+    text-decoration: line-through;
+}
