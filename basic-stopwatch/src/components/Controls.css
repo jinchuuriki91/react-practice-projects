@@ -17,6 +17,11 @@ section.controls {
 
     &.start-stop {
       background-color: #18f91f;
+
+      &.red {
+        background-color: #f91818;
+        color: #ffffff;
+      }
     }
 
     &:hover {
