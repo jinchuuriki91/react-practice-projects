@@ -1,0 +1,16 @@
+section.display {
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+
+  > div {
+    display: flex;
+    flex-direction: column;
+
+    label {
+      font-size: 14px;
+      font-weight: 400;
+    }
+  }
+}
